@@ -99,7 +99,6 @@ Authorization: Bearer <your_token>
 * Total Income
 * Total Expense
 * Net Balance
-* Recent Transactions (optional)
 
 ---
 
